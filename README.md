@@ -4,14 +4,14 @@ understanding, knowledge, and forecasting of financial stocks and the
 financial market through AI
 
 * **UI/UX**
-* https://www.figma.com/proto/nW21iwhRkifsBu62iVpNjE/project?type=design&node-id=200-2422&t=jMDfLAipEuCOhHNz-0&scaling=scale-down&page-id=0%3A1
+* (https://www.figma.com/proto/nW21iwhRkifsBu62iVpNjE/project?type=design&node-id=200-2422&t=jMDfLAipEuCOhHNz-0&scaling=scale-down&page-id=0%3A1)
 
 * **Implementation** 
 * Work is still ongoing. We are working on linking the website and application to AI
 
 
 * **Mobile App**
-* https://github.com/ahmed-hamza-eita/Investo
+* (https://github.com/ahmed-hamza-eita/Investo)
 
 
 ## Team Members
