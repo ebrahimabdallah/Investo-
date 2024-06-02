@@ -34,3 +34,5 @@ financial market through AI
 
 ### UI/UX:
 - Taha Mohamed
+
+
