@@ -8,3 +8,7 @@ financial market through AI
 
 * **Implementation** 
 * Work is still ongoing. We are working on linking the website and application to AI
+
+
+* **Mobile App**
+* https://github.com/ahmed-hamza-eita/Investo
